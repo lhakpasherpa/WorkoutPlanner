@@ -1,0 +1,6 @@
+
+target 'WorkOutpplannerProject' do
+use_frameworks!
+pod 'Backendless'
+end
+
